@@ -1,1 +1,4 @@
-asiloarvinjake97@gmail.com|cebdb96d7002acf2|MARSHALL|VIP|2026-12-31|3|v1,v2,v3,v4
+cebdb96d7002acf2|v1
+cebdb96d7002acf2|v2
+cebdb96d7002acf2|v3
+cebdb96d7002acf2|v4
